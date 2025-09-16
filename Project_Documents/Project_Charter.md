@@ -1,4 +1,4 @@
-[README](../rea)
+[README](../README.md)
 
 # Project Scope:
 ## Business Need:
