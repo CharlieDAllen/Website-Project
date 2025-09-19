@@ -36,9 +36,37 @@ The purpose of this project is to produce a simple, functional, intuitive social
 - Maintainability - The codebase shall be modular and well - documented to allow for each future enhansements.
 
 # Use Cases:
-## Account Creation
-## Account Login / Log out
+## Account Creation:
+1. A user enters the website.
+2. Said user wishes to create an account to view content and or make connections.
+3. They go to the make-account page.
+4. They create an account.
+5. They are logged into automatically and taken back to the home page.
+
+## Account Log Out
+1. A user with an account wishes to log into their account.
+2. They click log out.
+3. They are taken to login page.
+
+## Account Log In
+1. A user wishes to login to their preexisting account.
+2. They go to the website and are redirected to the login page.
+3. The user logs in.
+4. The user is taken to their homepage.
+
 ## Following and Unfollowing
+### Following
+1. A user wishes to follow what another user is posting
+2. They go their profile page
+3. They click follow.
+4. Follow confirmation message.
+
+### Unfollowing
+1. A user wishes to stop following exactly what someone they are following is doing.
+2. The user either goes the person they wish to follows account page or their follow page.
+3. The user either way clicks unfollow.
+4. Unfollow confirmation message.
+
 ## Notification System:
 1. User is present on the website doing any number of things.
 2. The user recieves a notification to alert them something important happened, a friend request, follow, comment, follow request. . . etc.
